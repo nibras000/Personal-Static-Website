@@ -1,0 +1,108 @@
+.head-start{
+    width: 100%;
+}
+.row{
+    color:#FE7743;
+}
+.navbar-nav li a{
+    color: #FE7743;
+    
+}
+.intro{
+    padding-top: 7rem;
+    color:#F6E9E9
+}
+.intro-hello{
+    font-size: 400%;
+}
+.intro-name{
+    font-size: 200%;
+}
+.career-photo{
+    width:80%;
+   
+}
+.pers-photo{
+    width:80%;
+}
+.terra-photo{
+    width:80%
+}
+.career-para, .terra-para, .pers-para{
+    text-align: justify;
+}
+.card-ref{
+    text-decoration: none  ;
+    color: #FE7743;
+}
+.head-start{
+    background: #000000;
+}/*
+#start-home{
+    background: #1c1b1b;
+}
+#project{
+    background: #000000;
+}
+#Certifications{
+    background: #1c1b1b;
+}*/
+.card-body{
+    background: #1c1b1b;
+    
+}/*
+.skill-tab{
+    background:#000000;
+}*/
+.skills-title{
+    color:#FE7743
+}
+.head-start{
+    position: sticky;
+}
+.certificate-row.bg-black{
+    background: #1c1b1b !important;
+}
+.name-form{
+    width: 100%;
+}
+.contact-end.border-primary{
+    border-color: #FE7743 !important;
+}
+.message-input.border-primary{
+    border-color: #FE7743 !important;
+}
+.mail-input.border-primary{
+    border-color: #FE7743 !important;
+}
+
+.name-input.border-primary{
+    border-color: #FE7743 !important;
+}
+#footer{
+    background-color:#000000 ;
+   
+}
+
+.form-contact.border-primary{
+    border-color:#1c1b1b !important;
+}
+.form-control.border-primary{
+    border-color: #1c1b1b !important;
+}
+.logo.bg-primary{
+    background: #1c1b1b !important;
+}
+.button-submit.btn-primary{
+    background: #FE7743;
+    border: none;
+}
+.button-submit:hover{
+    background: #fd4a03 !important;
+}
+.bi{
+    color: #FE7743 ;
+}
+.bi:hover{
+    color: #f6e9e9 !important;
+}
