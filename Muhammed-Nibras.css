@@ -53,6 +53,15 @@
 .card-body{
     background: #1c1b1b;
     
+}
+
+.card-body h5:hover{
+    text-decoration: none;
+    color: #ff7444;
+}
+.card-body p:hover{
+    text-decoration: none;
+    color: #ff7444;
 }/*
 .skill-tab{
     background:#000000;
